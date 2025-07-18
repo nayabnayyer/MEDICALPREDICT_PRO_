@@ -1,0 +1,1501 @@
+age,sex,bmi,children,smoker,region,charges
+56,male,23.8,4,no,Gulberg,3726.0
+36,male,28.1,2,no,Johar Town,3716.0
+53,male,27.6,4,no,Iqbal Town,5313.0
+61,male,22.3,5,no,Wapda Town,4003.0
+38,male,31.8,4,no,Gulberg,3643.0
+66,male,32.2,2,no,Johar Town,6729.0
+59,male,25.0,5,yes,Wapda Town,11434.0
+69,female,23.3,0,yes,Johar Town,13754.0
+68,female,21.9,1,no,Cantt,3451.0
+31,male,33.7,1,no,Iqbal Town,5816.0
+43,female,25.2,3,yes,DHA,11306.0
+25,male,23.5,2,no,Cantt,3503.0
+53,male,28.3,5,no,Gulberg,4491.0
+59,male,23.2,3,yes,DHA,12258.0
+35,female,24.9,5,yes,Cantt,10062.0
+57,female,27.5,4,no,Wapda Town,3696.0
+35,female,33.4,0,no,Gulberg,6671.0
+62,female,28.3,0,no,Cantt,7029.0
+62,female,21.3,2,yes,Wapda Town,11692.0
+25,male,28.4,2,no,Gulberg,5568.0
+22,male,26.8,3,no,Cantt,3465.0
+25,male,28.4,3,no,Cantt,3563.0
+65,male,31.9,4,no,Model Town,5223.0
+57,female,19.5,5,no,Iqbal Town,3229.0
+18,male,27.3,2,no,DHA,3940.0
+43,male,25.7,5,no,Iqbal Town,3338.0
+26,male,23.5,3,yes,Wapda Town,12505.0
+49,male,27.3,0,no,Wapda Town,6901.0
+49,male,22.9,4,no,Johar Town,4148.0
+46,female,25.7,3,no,DHA,5456.0
+24,male,22.8,1,no,Iqbal Town,3568.0
+23,male,24.0,3,no,Johar Town,2021.0
+61,female,27.9,1,yes,Model Town,13211.0
+42,male,25.2,5,yes,Johar Town,12463.0
+44,female,29.1,0,no,Johar Town,6719.0
+23,female,22.8,2,no,Model Town,4593.0
+54,female,19.6,2,no,Johar Town,3494.0
+49,male,29.7,0,no,Johar Town,6574.0
+66,female,20.6,1,no,Iqbal Town,5564.0
+54,female,20.7,0,no,Wapda Town,4710.0
+66,female,23.7,4,no,Johar Town,3451.0
+18,female,25.4,2,no,Gulberg,2392.0
+61,male,33.9,3,yes,Johar Town,15085.0
+34,male,18.2,5,no,Cantt,3637.0
+69,female,23.8,0,yes,Wapda Town,12250.0
+23,female,24.9,4,no,Model Town,4215.0
+53,female,24.0,2,no,Wapda Town,4069.0
+24,male,24.5,3,no,Iqbal Town,4947.0
+57,male,28.5,0,no,Iqbal Town,6534.0
+42,female,23.4,1,no,Cantt,5495.0
+47,female,19.9,1,no,Gulberg,3697.0
+69,female,27.0,3,no,Johar Town,5578.0
+18,male,27.0,0,no,Iqbal Town,5887.0
+36,female,27.1,2,no,Wapda Town,3726.0
+50,male,23.3,3,no,Cantt,5156.0
+37,female,24.9,5,yes,Cantt,12562.0
+42,male,26.7,5,no,Johar Town,3896.0
+58,male,21.1,3,no,Wapda Town,4677.0
+50,male,20.7,2,no,Wapda Town,3782.0
+50,female,23.9,3,no,Gulberg,3143.0
+39,female,20.4,5,no,Cantt,2589.0
+68,male,22.7,5,no,Gulberg,3531.0
+44,male,26.1,3,no,Gulberg,5832.0
+50,female,29.8,4,no,Cantt,3603.0
+65,male,21.7,3,no,Johar Town,5507.0
+63,female,25.9,4,no,Wapda Town,3801.0
+58,female,23.5,5,no,Wapda Town,4849.0
+52,female,25.4,3,no,Johar Town,5178.0
+38,male,23.6,2,yes,Iqbal Town,11806.0
+42,female,20.7,1,no,Iqbal Town,5126.0
+20,female,20.5,5,no,Model Town,2894.0
+44,female,24.6,1,no,Gulberg,4125.0
+34,male,27.8,1,no,Gulberg,4674.0
+52,male,33.1,1,no,Wapda Town,6893.0
+30,male,21.3,5,no,Wapda Town,2097.0
+29,male,28.0,2,no,Gulberg,5819.0
+45,male,19.8,5,no,Johar Town,2000.0
+39,male,34.0,1,no,Cantt,5723.0
+66,male,22.4,0,no,Wapda Town,4664.0
+61,female,22.7,3,no,Iqbal Town,4823.0
+21,male,24.4,5,no,Wapda Town,2000.0
+57,female,25.8,3,yes,Johar Town,13117.0
+67,female,15.9,0,no,Johar Town,3131.0
+36,male,26.7,3,no,Iqbal Town,4450.0
+43,female,26.0,4,yes,Model Town,12223.0
+18,female,27.5,1,no,Cantt,5751.0
+65,male,27.1,4,no,Iqbal Town,6041.0
+20,male,35.0,3,no,Gulberg,5099.0
+68,female,23.1,1,no,Cantt,4052.0
+38,male,33.5,3,yes,Johar Town,12544.0
+47,female,22.3,5,no,Johar Town,3583.0
+51,male,26.6,3,no,DHA,5014.0
+36,male,30.7,4,no,Cantt,3343.0
+33,female,24.0,1,yes,Cantt,12944.0
+49,male,26.5,1,no,Gulberg,6216.0
+50,male,28.6,0,no,Gulberg,5108.0
+60,male,25.4,0,no,Model Town,5949.0
+60,female,26.4,3,no,Johar Town,5002.0
+29,male,27.1,0,no,Johar Town,4837.0
+46,male,23.5,1,no,Model Town,4091.0
+51,female,23.9,1,no,DHA,4947.0
+62,female,17.1,2,no,Johar Town,3052.0
+53,female,25.8,3,yes,Johar Town,11299.0
+26,male,25.7,2,no,Iqbal Town,3769.0
+65,male,24.5,5,no,Gulberg,5117.0
+29,female,21.8,0,no,Wapda Town,4665.0
+40,male,24.4,0,no,Gulberg,5290.0
+37,male,27.0,0,no,Cantt,4271.0
+36,male,27.3,3,no,Wapda Town,3053.0
+64,male,25.5,4,yes,Model Town,11586.0
+29,male,30.8,3,no,Wapda Town,5525.0
+33,male,21.2,0,yes,Wapda Town,10855.0
+59,female,31.3,3,no,Iqbal Town,6455.0
+61,female,25.6,0,yes,DHA,12856.0
+24,female,18.2,0,no,Johar Town,2887.0
+19,female,22.5,4,no,Johar Town,4046.0
+55,female,28.6,0,no,Model Town,5585.0
+53,male,24.1,5,no,Gulberg,4182.0
+36,male,27.2,2,no,Gulberg,5212.0
+36,male,31.9,5,no,Wapda Town,4051.0
+30,male,31.8,3,yes,DHA,11551.0
+58,male,18.3,0,no,DHA,4002.0
+45,male,25.6,0,yes,Model Town,13765.0
+50,female,25.6,5,no,Wapda Town,5118.0
+61,male,26.2,4,yes,Iqbal Town,13381.0
+38,female,25.6,2,no,Iqbal Town,3254.0
+53,male,27.9,1,yes,DHA,12347.0
+66,male,26.2,5,no,Iqbal Town,5276.0
+18,male,30.8,0,no,DHA,4664.0
+27,male,33.3,5,no,Iqbal Town,4309.0
+45,male,22.1,3,no,Iqbal Town,4862.0
+67,female,22.0,3,yes,Wapda Town,12911.0
+58,female,22.7,0,no,Cantt,3703.0
+37,male,19.4,4,no,Iqbal Town,3104.0
+46,female,23.5,4,no,Gulberg,2269.0
+19,female,26.6,1,no,Cantt,3195.0
+67,female,19.1,0,no,Johar Town,5034.0
+35,female,24.8,0,no,Wapda Town,3159.0
+43,male,27.4,2,no,Gulberg,6080.0
+50,male,25.7,1,yes,Wapda Town,11602.0
+18,female,25.4,4,no,Wapda Town,3963.0
+40,male,33.6,4,no,Model Town,4112.0
+27,male,24.2,5,no,DHA,3033.0
+18,male,28.5,2,no,DHA,3525.0
+21,male,28.8,1,no,Iqbal Town,3471.0
+25,female,19.5,1,no,Cantt,4068.0
+20,female,28.7,5,no,Wapda Town,2638.0
+47,male,26.3,5,no,Cantt,3120.0
+34,male,28.6,1,no,Model Town,3511.0
+56,male,31.5,5,no,Iqbal Town,4865.0
+51,female,28.2,5,no,Cantt,5603.0
+68,male,19.0,1,no,DHA,3642.0
+55,male,29.5,5,no,Model Town,3333.0
+68,female,23.6,0,no,Johar Town,4747.0
+21,female,28.8,0,no,DHA,4550.0
+41,male,25.4,4,no,Johar Town,2486.0
+19,male,30.5,2,yes,Model Town,12339.0
+40,female,18.2,2,yes,Cantt,10064.0
+25,female,26.2,0,no,DHA,5657.0
+20,female,20.4,2,no,Iqbal Town,3706.0
+67,female,18.5,4,yes,Gulberg,10607.0
+45,female,26.0,1,yes,Johar Town,13728.0
+38,female,30.7,3,no,Gulberg,3789.0
+51,female,33.5,0,no,DHA,7889.0
+62,female,21.5,0,no,Model Town,5918.0
+47,male,24.9,2,no,Model Town,5356.0
+34,male,29.4,0,no,DHA,3961.0
+69,female,21.5,5,no,Gulberg,4524.0
+45,male,23.5,4,yes,DHA,11991.0
+68,male,17.2,2,no,Iqbal Town,3822.0
+63,female,22.6,2,no,Iqbal Town,3640.0
+42,female,27.6,4,yes,Wapda Town,12016.0
+56,female,19.8,1,no,DHA,4398.0
+42,female,21.4,0,no,Wapda Town,3341.0
+42,male,30.2,4,no,Model Town,5863.0
+53,female,26.6,5,no,Iqbal Town,3392.0
+25,female,29.9,1,no,Model Town,5579.0
+23,male,33.9,3,no,DHA,4550.0
+51,male,26.0,5,no,Model Town,4905.0
+50,female,17.4,4,yes,Model Town,11269.0
+23,female,23.2,5,yes,Iqbal Town,10145.0
+47,female,14.9,0,yes,Cantt,10690.0
+68,male,29.2,5,no,DHA,5631.0
+47,female,24.6,5,no,Gulberg,3162.0
+19,female,32.2,2,no,Johar Town,4065.0
+22,male,32.5,5,no,Gulberg,2824.0
+21,male,27.1,0,no,Model Town,5548.0
+18,male,15.0,1,no,Model Town,2587.0
+55,male,21.4,3,no,Iqbal Town,5312.0
+20,female,25.1,0,no,Model Town,4351.0
+27,male,34.0,1,no,Johar Town,6697.0
+19,male,33.9,3,no,Cantt,3691.0
+54,female,33.6,2,no,Johar Town,5230.0
+66,female,21.6,4,no,Gulberg,4853.0
+61,male,28.7,2,no,Cantt,4482.0
+29,female,23.4,2,yes,Johar Town,12133.0
+57,female,26.3,4,no,Cantt,4817.0
+47,female,26.0,2,yes,Cantt,13404.0
+22,female,26.6,5,no,Johar Town,3694.0
+62,female,18.8,1,no,DHA,3792.0
+57,female,31.1,2,no,Cantt,6360.0
+50,female,22.4,0,no,Iqbal Town,4189.0
+50,female,26.7,4,no,Model Town,3172.0
+68,female,14.6,2,no,Johar Town,3192.0
+20,female,18.1,3,no,DHA,3127.0
+46,male,30.6,0,no,Johar Town,4937.0
+56,male,29.3,2,no,Model Town,6767.0
+21,male,30.0,5,no,Iqbal Town,3106.0
+22,male,24.6,5,no,Model Town,3119.0
+64,female,27.3,3,no,Wapda Town,5523.0
+69,female,29.1,4,no,Gulberg,4632.0
+21,female,22.2,3,no,Model Town,3952.0
+44,male,31.5,3,no,Cantt,6003.0
+44,female,28.0,4,no,Model Town,2894.0
+27,female,19.3,1,no,DHA,3402.0
+29,female,21.3,1,no,Wapda Town,4401.0
+35,male,25.2,3,no,Model Town,3328.0
+61,female,24.2,3,no,Model Town,5049.0
+22,male,26.9,1,no,Model Town,4171.0
+48,female,25.8,1,yes,Iqbal Town,12086.0
+68,female,24.7,5,no,Johar Town,5393.0
+18,male,26.4,5,no,Model Town,4024.0
+43,male,36.2,4,no,Gulberg,6702.0
+26,female,26.1,1,no,Johar Town,4686.0
+43,male,22.0,0,no,Gulberg,4005.0
+55,female,17.4,1,no,DHA,3226.0
+44,female,22.7,2,yes,DHA,11957.0
+68,female,30.7,5,yes,DHA,13471.0
+24,female,28.2,2,no,Cantt,3135.0
+45,female,21.2,1,no,Gulberg,4839.0
+24,male,25.9,3,no,DHA,3123.0
+45,male,27.7,4,yes,Cantt,13524.0
+24,male,23.3,2,no,Cantt,2192.0
+36,male,26.6,5,no,Johar Town,2253.0
+46,male,20.3,2,yes,Johar Town,10792.0
+31,female,29.9,2,no,Iqbal Town,3733.0
+19,male,19.9,5,no,Model Town,3520.0
+21,female,35.2,0,no,Cantt,5770.0
+56,male,22.7,2,no,Wapda Town,5422.0
+50,male,29.7,3,no,Cantt,4225.0
+24,female,23.6,2,no,Gulberg,4480.0
+25,male,26.1,5,no,DHA,4123.0
+54,female,26.0,1,no,Model Town,6548.0
+41,male,21.8,5,no,Gulberg,4025.0
+63,male,24.6,4,yes,Gulberg,13785.0
+31,female,28.6,1,yes,Cantt,14122.0
+24,male,28.8,4,no,Cantt,4708.0
+46,male,27.9,3,no,DHA,5347.0
+18,female,21.9,1,no,Iqbal Town,3442.0
+20,male,30.2,3,no,Wapda Town,5382.0
+54,female,29.0,1,no,Gulberg,5790.0
+52,female,15.3,3,no,Gulberg,3230.0
+61,female,27.9,0,no,Iqbal Town,6248.0
+34,male,25.9,5,no,Model Town,2726.0
+19,female,18.6,5,no,Wapda Town,2664.0
+63,female,27.0,3,yes,Model Town,13324.0
+46,female,21.8,2,no,DHA,3505.0
+38,male,22.9,1,no,DHA,4521.0
+55,male,25.4,5,no,Cantt,4463.0
+40,female,21.3,4,yes,DHA,9862.0
+38,female,20.4,2,no,Cantt,3381.0
+29,male,22.4,4,no,Model Town,2448.0
+24,female,28.7,4,no,Cantt,3433.0
+63,female,25.0,1,yes,DHA,14181.0
+60,female,23.1,3,no,Wapda Town,2906.0
+56,male,30.8,2,no,Gulberg,5138.0
+64,female,17.0,3,yes,Model Town,12344.0
+69,male,25.5,2,no,Iqbal Town,5695.0
+62,female,25.5,1,yes,Model Town,11855.0
+26,male,21.8,0,no,DHA,3307.0
+60,female,20.2,2,no,Iqbal Town,3676.0
+54,female,33.2,3,no,Iqbal Town,6582.0
+47,female,27.9,0,yes,Model Town,14212.0
+27,female,21.6,0,no,Model Town,4654.0
+64,female,26.8,0,no,DHA,7168.0
+33,female,29.1,5,no,DHA,3710.0
+35,female,17.9,1,yes,Johar Town,10329.0
+43,male,25.8,1,no,DHA,3749.0
+34,male,27.1,1,no,Johar Town,4071.0
+32,female,18.9,4,no,DHA,4112.0
+68,female,23.8,5,yes,Gulberg,11505.0
+52,female,26.7,1,no,Johar Town,5143.0
+56,male,26.4,2,no,DHA,3547.0
+62,male,24.2,1,no,DHA,3776.0
+60,male,31.0,3,no,Wapda Town,5246.0
+66,male,22.4,3,no,Iqbal Town,4950.0
+42,male,26.6,4,no,Cantt,2650.0
+19,female,30.9,2,no,Model Town,5015.0
+47,female,26.6,2,no,DHA,4005.0
+69,male,25.3,4,no,DHA,5171.0
+46,male,25.9,3,no,Cantt,3132.0
+27,female,21.8,5,no,Model Town,2000.0
+56,male,33.0,0,yes,Johar Town,13591.0
+31,female,24.7,5,no,Gulberg,2751.0
+35,male,18.3,3,no,Wapda Town,3099.0
+54,male,21.2,4,no,Cantt,4290.0
+23,female,27.3,1,yes,Model Town,12698.0
+69,female,24.8,3,no,Cantt,5800.0
+37,female,22.1,2,no,DHA,4604.0
+27,male,28.4,2,yes,Wapda Town,11326.0
+43,male,27.9,5,no,Iqbal Town,3439.0
+66,female,26.0,0,no,Iqbal Town,4562.0
+66,male,24.5,1,no,Johar Town,4466.0
+34,male,21.3,2,no,Johar Town,2075.0
+55,female,29.5,0,no,Model Town,7248.0
+31,female,26.7,4,yes,DHA,10418.0
+58,male,20.0,4,no,DHA,4985.0
+42,female,21.1,1,no,Iqbal Town,4384.0
+26,male,28.0,2,yes,Iqbal Town,11786.0
+41,female,23.2,3,no,Cantt,4870.0
+25,male,25.1,1,yes,Model Town,11085.0
+65,male,26.4,4,no,Iqbal Town,3870.0
+30,female,23.9,5,no,Cantt,2167.0
+20,male,30.8,1,no,Gulberg,3999.0
+30,female,26.3,2,no,Wapda Town,5026.0
+45,female,22.6,0,yes,Model Town,11599.0
+65,female,27.3,0,no,Iqbal Town,5640.0
+53,female,26.0,2,no,DHA,5389.0
+24,female,28.2,1,yes,Model Town,11379.0
+60,male,25.6,4,no,Model Town,4310.0
+48,female,20.8,1,no,Gulberg,3034.0
+63,male,29.4,2,no,Iqbal Town,6506.0
+34,male,24.9,4,no,Cantt,4858.0
+23,female,20.5,2,no,Wapda Town,2000.0
+27,male,30.7,3,no,Model Town,5140.0
+47,female,23.1,4,yes,DHA,10968.0
+21,female,26.1,3,no,Iqbal Town,4159.0
+34,male,23.5,3,yes,Model Town,11570.0
+27,female,21.2,2,no,DHA,3155.0
+31,male,25.8,4,no,Cantt,2808.0
+52,female,17.2,4,yes,Model Town,12331.0
+23,female,29.5,2,no,DHA,5678.0
+40,female,17.2,4,no,Cantt,3383.0
+52,male,24.4,4,no,Model Town,2930.0
+32,female,26.6,3,no,DHA,3874.0
+64,male,29.9,5,no,Cantt,5160.0
+28,male,25.1,4,no,Iqbal Town,4177.0
+54,female,19.4,2,no,Model Town,2602.0
+36,male,29.6,1,no,Wapda Town,5101.0
+66,female,23.2,0,no,Iqbal Town,5620.0
+35,male,25.7,3,yes,Johar Town,11598.0
+34,male,30.5,4,no,DHA,4739.0
+32,female,30.5,2,no,Gulberg,3503.0
+61,male,16.1,4,no,Iqbal Town,2243.0
+20,female,23.4,5,yes,Wapda Town,9266.0
+34,female,18.6,5,no,Gulberg,2000.0
+53,male,20.1,3,yes,Model Town,10686.0
+19,male,27.3,2,no,Model Town,5450.0
+34,female,22.2,5,no,Wapda Town,4339.0
+62,female,14.3,0,no,Model Town,4331.0
+55,female,25.0,2,yes,Johar Town,13120.0
+34,male,27.9,3,no,Model Town,3585.0
+49,male,25.9,3,no,Cantt,3240.0
+27,female,22.5,1,no,Cantt,3984.0
+19,female,28.1,5,yes,Cantt,11964.0
+69,female,24.4,1,no,Cantt,3840.0
+19,female,27.7,1,yes,Iqbal Town,12047.0
+66,female,26.2,2,yes,Cantt,12368.0
+23,female,30.8,0,no,Wapda Town,5643.0
+25,female,29.5,1,no,DHA,5535.0
+37,female,28.2,2,no,Model Town,4508.0
+21,male,23.9,5,no,Iqbal Town,2293.0
+43,female,21.7,3,no,Johar Town,3827.0
+28,male,25.9,1,yes,DHA,12762.0
+40,female,22.8,2,no,Model Town,5188.0
+63,male,34.7,3,no,Model Town,4846.0
+46,male,28.5,2,yes,Wapda Town,13922.0
+23,female,28.5,1,no,Cantt,3476.0
+54,female,19.5,2,no,Gulberg,4549.0
+32,female,26.3,0,no,Gulberg,6214.0
+66,male,27.6,4,no,Model Town,6151.0
+54,male,28.6,3,no,Gulberg,5433.0
+37,female,36.4,2,no,DHA,6972.0
+53,female,25.4,1,no,Iqbal Town,3828.0
+53,female,17.5,2,no,Cantt,4827.0
+29,female,21.7,2,no,DHA,4542.0
+57,female,22.0,1,no,Cantt,5326.0
+65,male,28.5,5,yes,Wapda Town,11605.0
+61,male,26.9,4,no,Iqbal Town,6018.0
+62,female,14.7,0,no,Johar Town,2785.0
+64,female,30.2,3,no,Gulberg,6645.0
+23,male,33.2,0,no,Model Town,4701.0
+45,female,27.2,0,no,Gulberg,3968.0
+53,female,19.0,4,no,Cantt,2019.0
+48,female,24.3,1,no,DHA,4720.0
+58,female,18.9,0,no,Johar Town,3925.0
+25,female,30.0,5,yes,Wapda Town,13142.0
+60,male,29.4,4,no,Johar Town,4277.0
+29,male,30.9,3,no,Wapda Town,4671.0
+64,male,25.6,5,no,Model Town,5248.0
+37,male,25.7,4,no,Johar Town,4203.0
+46,female,23.9,0,yes,Model Town,12360.0
+23,male,26.8,3,yes,Cantt,12215.0
+67,female,20.4,2,yes,Iqbal Town,13158.0
+51,male,19.8,2,no,Gulberg,4159.0
+61,female,26.0,5,yes,Wapda Town,12055.0
+62,female,21.1,4,yes,Iqbal Town,11399.0
+25,female,26.0,4,no,Cantt,3237.0
+22,male,25.6,1,no,Model Town,4579.0
+25,male,25.9,0,yes,Johar Town,12547.0
+25,female,26.5,5,no,Wapda Town,3036.0
+22,female,24.6,0,yes,Gulberg,13396.0
+45,female,25.4,0,no,DHA,3543.0
+42,male,21.6,4,no,Wapda Town,3884.0
+30,female,21.6,1,no,Cantt,3182.0
+63,female,22.7,3,no,Johar Town,5502.0
+23,male,29.2,0,yes,Wapda Town,12446.0
+24,male,24.4,0,no,Iqbal Town,3127.0
+18,male,20.9,4,no,DHA,2830.0
+46,male,19.4,0,no,Wapda Town,4134.0
+49,male,20.8,1,no,Gulberg,3898.0
+25,female,21.6,5,no,Iqbal Town,2791.0
+19,male,17.0,1,no,Johar Town,2000.0
+19,female,21.3,5,no,Wapda Town,2920.0
+46,female,19.4,1,no,Cantt,3063.0
+32,female,17.9,3,no,Cantt,3218.0
+60,female,26.7,1,no,Iqbal Town,5292.0
+60,male,28.3,4,no,Model Town,3703.0
+60,male,25.0,2,no,Cantt,4324.0
+21,female,25.6,4,no,Cantt,4102.0
+36,female,23.9,4,no,Gulberg,3631.0
+44,male,22.2,4,no,DHA,4197.0
+52,male,22.7,5,no,Model Town,3574.0
+66,female,24.7,4,no,Wapda Town,4595.0
+42,female,19.8,3,yes,Gulberg,12594.0
+30,male,26.3,0,no,Model Town,3297.0
+59,female,23.4,5,no,Wapda Town,3286.0
+18,male,29.2,3,yes,Iqbal Town,12421.0
+59,female,25.0,3,no,Iqbal Town,4792.0
+26,male,35.0,1,yes,Johar Town,12315.0
+59,male,24.9,1,no,DHA,5622.0
+21,male,29.0,1,no,Gulberg,4041.0
+53,male,33.3,1,no,Model Town,6543.0
+27,female,20.7,0,no,Iqbal Town,5117.0
+22,female,26.1,1,no,Wapda Town,5651.0
+38,male,23.1,0,yes,Model Town,13637.0
+54,male,30.9,2,no,Cantt,6109.0
+31,female,30.5,4,no,DHA,2989.0
+42,female,20.8,5,no,Johar Town,3296.0
+58,female,30.6,0,yes,Johar Town,14165.0
+41,male,28.3,4,yes,Iqbal Town,12329.0
+57,female,30.5,4,no,Gulberg,5265.0
+20,female,17.3,5,no,Johar Town,2000.0
+21,female,19.0,4,no,Gulberg,3544.0
+19,male,23.9,4,no,Iqbal Town,4124.0
+25,male,26.8,1,no,Gulberg,4236.0
+61,male,21.3,5,yes,Johar Town,12437.0
+61,male,21.1,1,no,Gulberg,5365.0
+52,male,25.0,5,no,Wapda Town,3294.0
+53,male,32.9,4,yes,DHA,12479.0
+48,male,23.3,1,yes,DHA,11627.0
+33,male,28.1,3,no,Wapda Town,3831.0
+29,male,25.9,5,no,Gulberg,4562.0
+45,male,27.5,2,yes,Johar Town,11385.0
+22,female,27.5,0,no,Cantt,4109.0
+38,female,27.1,3,no,Gulberg,3518.0
+35,female,25.7,4,no,Gulberg,2774.0
+55,female,25.3,3,no,Wapda Town,3510.0
+31,male,24.8,4,no,Model Town,3836.0
+38,female,22.4,1,no,Wapda Town,5031.0
+26,male,31.2,5,no,Model Town,4623.0
+21,male,26.2,1,no,Wapda Town,2837.0
+52,female,25.5,3,no,Model Town,5620.0
+59,male,31.6,3,no,Gulberg,6071.0
+59,female,32.8,5,no,Model Town,6600.0
+47,male,28.7,5,no,Model Town,5732.0
+33,female,26.3,4,yes,Gulberg,10615.0
+44,female,21.9,1,no,Wapda Town,3312.0
+31,male,26.2,0,no,Johar Town,4336.0
+50,female,24.7,3,no,Model Town,5251.0
+18,female,29.6,4,no,Model Town,4400.0
+52,female,26.2,0,no,Gulberg,6714.0
+30,male,23.6,1,no,Cantt,5221.0
+32,male,25.3,3,yes,Model Town,12204.0
+29,male,25.7,4,no,Model Town,3463.0
+37,female,25.9,1,no,Model Town,4798.0
+23,male,19.4,2,no,DHA,3198.0
+51,female,29.0,1,no,Iqbal Town,5024.0
+28,female,26.6,0,no,Johar Town,5993.0
+26,female,29.5,2,yes,Gulberg,11428.0
+45,male,23.5,3,no,Gulberg,4243.0
+21,male,24.8,0,no,Iqbal Town,4226.0
+69,male,28.0,5,no,Wapda Town,3615.0
+54,female,19.9,3,no,Iqbal Town,2705.0
+52,female,19.3,5,yes,DHA,12280.0
+39,female,16.8,4,yes,Cantt,11993.0
+19,male,25.1,5,no,DHA,3894.0
+27,female,19.8,1,yes,DHA,10304.0
+22,male,22.0,3,no,Johar Town,4249.0
+38,female,23.9,3,no,Johar Town,2768.0
+43,female,26.9,2,no,Cantt,5453.0
+69,female,19.0,4,no,Gulberg,3411.0
+38,male,27.2,0,no,Cantt,5327.0
+65,male,23.1,4,no,Wapda Town,5459.0
+67,female,32.6,1,no,Gulberg,5738.0
+39,female,21.6,0,no,Iqbal Town,4025.0
+40,female,19.2,3,no,DHA,2000.0
+54,male,26.3,4,yes,Cantt,11501.0
+40,female,22.5,2,yes,Gulberg,11006.0
+22,male,26.7,3,no,Gulberg,4437.0
+48,male,22.1,2,no,Model Town,4324.0
+45,female,18.7,2,yes,DHA,10649.0
+22,female,29.0,1,yes,DHA,14065.0
+49,female,24.8,3,no,Cantt,5114.0
+25,male,28.4,1,no,Gulberg,3747.0
+20,male,31.2,0,no,Cantt,6160.0
+21,male,28.6,1,no,Iqbal Town,3354.0
+67,female,28.9,1,no,Model Town,7156.0
+29,female,20.0,4,no,Model Town,3706.0
+48,female,23.7,3,yes,Model Town,11713.0
+27,male,28.2,0,no,Cantt,5488.0
+31,male,25.2,3,no,DHA,4070.0
+67,male,25.1,5,yes,DHA,13652.0
+38,female,22.9,2,no,Wapda Town,5157.0
+47,female,23.3,4,no,Gulberg,3158.0
+25,female,25.1,5,no,Wapda Town,2000.0
+24,male,30.5,0,no,Johar Town,4879.0
+46,male,22.8,4,yes,Cantt,10712.0
+46,female,21.6,1,no,DHA,4063.0
+68,male,27.1,3,no,Gulberg,5742.0
+60,female,27.2,2,no,Johar Town,4259.0
+36,female,27.4,4,yes,Wapda Town,13422.0
+61,male,31.2,1,no,Wapda Town,6898.0
+25,female,26.7,0,no,Gulberg,4731.0
+20,male,31.2,2,no,Model Town,3206.0
+38,female,22.3,5,no,Gulberg,2867.0
+44,female,20.1,0,no,Wapda Town,4341.0
+39,female,29.9,1,no,DHA,4226.0
+29,female,20.9,1,no,Gulberg,3435.0
+37,male,28.6,2,no,Cantt,5781.0
+48,female,26.9,4,yes,Cantt,13649.0
+64,female,22.5,4,no,Gulberg,4433.0
+27,male,26.9,4,no,Johar Town,3979.0
+57,female,27.7,4,yes,Wapda Town,11537.0
+63,female,28.7,3,no,Cantt,5065.0
+24,female,21.7,3,no,Johar Town,2939.0
+20,male,26.5,3,no,Gulberg,4265.0
+41,male,23.2,1,no,Wapda Town,4898.0
+36,male,29.1,0,no,Cantt,5226.0
+36,female,21.8,5,no,Iqbal Town,4093.0
+29,male,28.8,3,no,Johar Town,3211.0
+65,male,29.8,4,yes,DHA,12578.0
+66,male,22.6,3,yes,Wapda Town,11596.0
+45,male,25.5,2,no,Johar Town,5597.0
+62,female,25.8,3,no,Model Town,5639.0
+44,female,19.7,5,no,Iqbal Town,3687.0
+28,female,25.2,1,no,Cantt,5289.0
+30,female,18.5,2,yes,Johar Town,11326.0
+62,male,27.7,2,no,Model Town,5676.0
+59,female,24.8,2,no,Cantt,4465.0
+68,male,23.2,3,no,DHA,5198.0
+27,male,17.1,4,no,DHA,2616.0
+43,female,24.8,1,no,Gulberg,3343.0
+41,female,22.5,0,yes,Cantt,12130.0
+58,male,27.4,3,no,Iqbal Town,3819.0
+37,female,19.6,0,no,Model Town,4777.0
+47,male,29.5,1,no,Model Town,6276.0
+48,male,23.2,1,no,DHA,5498.0
+23,female,23.9,2,yes,Wapda Town,10742.0
+60,male,23.0,0,no,Model Town,4023.0
+67,female,16.9,1,no,Iqbal Town,2990.0
+28,male,21.9,3,yes,Gulberg,10739.0
+65,female,17.7,0,no,Model Town,5101.0
+38,male,23.9,1,yes,DHA,12352.0
+40,female,25.2,2,no,Model Town,4504.0
+38,female,18.6,3,no,Iqbal Town,3978.0
+58,male,22.7,5,no,Cantt,4829.0
+34,female,23.3,4,no,Gulberg,3215.0
+45,male,24.8,5,no,Wapda Town,4948.0
+51,female,24.6,5,no,DHA,3352.0
+51,male,20.9,1,no,DHA,3098.0
+19,male,25.8,1,no,DHA,3810.0
+65,female,30.5,3,yes,Johar Town,14562.0
+57,male,25.0,5,no,DHA,4849.0
+27,female,15.5,4,yes,Iqbal Town,9830.0
+21,male,25.9,5,no,Iqbal Town,4493.0
+32,male,27.3,5,yes,Iqbal Town,12901.0
+31,female,23.0,2,no,Wapda Town,3712.0
+57,male,29.5,0,no,DHA,5750.0
+52,male,25.7,5,no,Johar Town,3914.0
+40,female,22.3,2,no,Johar Town,3322.0
+28,male,30.6,3,no,Johar Town,3346.0
+41,female,29.1,4,no,Cantt,3359.0
+26,male,23.2,5,no,Iqbal Town,2739.0
+59,male,34.1,1,no,Wapda Town,6528.0
+20,male,18.7,4,no,Johar Town,2000.0
+67,male,26.1,3,no,Iqbal Town,5317.0
+25,male,20.9,4,no,Model Town,2727.0
+65,male,25.2,5,no,Model Town,5330.0
+36,female,19.3,0,no,Cantt,4163.0
+63,male,21.8,5,no,Wapda Town,3239.0
+21,female,23.8,3,no,Cantt,3721.0
+48,male,22.6,4,no,DHA,4958.0
+50,female,25.5,3,no,Model Town,4079.0
+51,female,21.9,2,yes,Wapda Town,12825.0
+46,female,19.0,0,no,Johar Town,3397.0
+67,male,27.1,0,no,Cantt,5449.0
+64,male,24.3,3,no,Iqbal Town,5133.0
+38,female,26.9,3,no,Wapda Town,3195.0
+43,male,23.7,4,yes,DHA,10538.0
+43,male,25.0,3,no,DHA,4480.0
+68,male,24.5,1,no,Cantt,5606.0
+40,male,19.9,4,no,Johar Town,3382.0
+47,female,29.0,2,no,Gulberg,5309.0
+37,male,24.0,2,no,Model Town,4616.0
+45,female,25.2,5,no,Johar Town,3811.0
+18,male,24.0,2,no,DHA,2909.0
+42,male,29.1,5,no,DHA,3130.0
+38,female,26.1,3,no,Cantt,3253.0
+26,male,26.7,2,yes,Gulberg,11810.0
+32,female,25.6,2,yes,Iqbal Town,11218.0
+44,female,23.0,1,no,Model Town,5390.0
+55,male,23.7,5,no,Gulberg,2382.0
+47,female,18.7,5,no,Johar Town,2000.0
+66,female,23.1,0,no,Gulberg,4975.0
+68,male,27.7,2,no,DHA,4544.0
+26,male,30.0,3,no,Johar Town,4599.0
+36,female,32.2,3,yes,Gulberg,11964.0
+55,female,17.2,5,no,Wapda Town,3525.0
+52,male,28.1,0,no,Iqbal Town,6235.0
+47,male,23.4,3,no,Iqbal Town,3108.0
+58,female,24.6,4,no,Model Town,2786.0
+58,female,29.0,5,no,Johar Town,5527.0
+28,female,24.5,5,no,Johar Town,4336.0
+38,male,22.3,4,no,Wapda Town,3312.0
+26,male,27.0,3,no,Wapda Town,4658.0
+51,male,26.8,4,no,Model Town,4825.0
+57,male,30.0,3,no,Iqbal Town,5394.0
+63,female,26.0,1,yes,DHA,11956.0
+39,female,29.5,4,no,Cantt,3221.0
+37,female,26.3,3,yes,Johar Town,13346.0
+39,male,30.8,3,no,Cantt,5773.0
+39,female,20.4,2,no,Johar Town,2261.0
+18,female,20.3,5,yes,Wapda Town,10071.0
+42,male,29.2,2,no,Cantt,6294.0
+18,female,24.8,0,no,Iqbal Town,4570.0
+66,male,23.7,4,no,Cantt,3437.0
+66,male,35.1,4,no,Iqbal Town,6469.0
+66,male,30.3,0,no,DHA,5700.0
+59,male,23.7,2,yes,Cantt,11992.0
+58,male,22.9,0,no,DHA,4795.0
+38,female,23.2,2,no,Cantt,4694.0
+58,female,23.7,5,yes,DHA,10544.0
+57,male,23.6,3,no,DHA,4312.0
+25,male,27.1,3,no,Cantt,5100.0
+50,female,26.0,4,no,DHA,3259.0
+45,female,22.1,4,no,Model Town,3653.0
+66,female,24.6,3,no,Model Town,4658.0
+19,male,30.3,3,no,Model Town,5549.0
+36,female,26.4,3,no,DHA,4766.0
+66,female,26.0,4,no,Cantt,3568.0
+19,female,23.3,2,no,Gulberg,3678.0
+27,male,21.4,0,no,Wapda Town,3573.0
+45,female,24.0,2,no,Gulberg,3127.0
+44,female,24.8,2,no,Iqbal Town,4100.0
+57,female,30.7,1,yes,Model Town,14883.0
+29,female,23.5,4,no,Johar Town,4570.0
+54,female,16.5,4,no,DHA,3276.0
+48,male,31.3,5,no,Iqbal Town,4679.0
+60,female,23.4,1,no,DHA,6029.0
+62,male,22.2,1,no,Gulberg,6039.0
+61,female,19.6,1,no,DHA,4971.0
+20,male,18.7,1,no,Gulberg,2089.0
+53,female,21.2,3,no,Gulberg,2887.0
+56,male,20.9,3,yes,Johar Town,13057.0
+18,female,24.2,0,no,DHA,4088.0
+36,male,26.2,3,yes,Wapda Town,11238.0
+64,female,23.4,2,no,DHA,4803.0
+66,female,28.9,3,no,Cantt,4229.0
+48,male,26.4,3,yes,Wapda Town,12503.0
+67,female,22.1,2,no,DHA,5835.0
+62,female,23.9,3,yes,Johar Town,11509.0
+63,male,25.6,1,no,Iqbal Town,4592.0
+23,female,22.5,2,yes,Wapda Town,11500.0
+47,male,26.2,4,no,DHA,3756.0
+54,female,23.8,2,no,Johar Town,5546.0
+21,female,24.1,4,no,Iqbal Town,3606.0
+64,male,26.6,5,no,Gulberg,3565.0
+62,male,25.9,4,no,Model Town,3802.0
+39,female,25.6,4,no,Gulberg,5153.0
+68,female,28.2,4,yes,Iqbal Town,13043.0
+66,male,24.1,4,no,Wapda Town,5165.0
+61,female,26.5,3,no,DHA,4050.0
+45,male,24.0,4,no,Cantt,3780.0
+64,male,23.9,4,no,Gulberg,3678.0
+35,male,28.3,5,no,Johar Town,4418.0
+36,male,24.2,3,no,DHA,4579.0
+54,female,18.9,3,no,Model Town,4314.0
+44,male,27.0,4,no,Wapda Town,3073.0
+38,male,27.9,5,no,DHA,4055.0
+45,female,24.6,0,no,Wapda Town,5072.0
+29,female,22.4,5,yes,Cantt,11684.0
+36,male,22.4,3,no,Johar Town,3338.0
+53,male,26.1,5,no,Model Town,4513.0
+41,female,32.3,0,no,Johar Town,6683.0
+34,male,21.4,2,no,Cantt,2608.0
+44,female,28.8,3,no,Wapda Town,3466.0
+52,male,24.7,0,yes,Wapda Town,12241.0
+62,female,28.7,2,no,Johar Town,4678.0
+20,female,23.2,2,yes,Iqbal Town,10853.0
+64,female,26.6,1,no,Wapda Town,5173.0
+46,male,26.8,5,no,DHA,3304.0
+27,female,22.4,3,no,Johar Town,4330.0
+41,female,21.0,2,no,Wapda Town,4415.0
+47,male,29.8,5,yes,Wapda Town,13605.0
+18,male,28.1,3,no,Wapda Town,4733.0
+18,male,26.7,2,no,Johar Town,5093.0
+57,female,24.6,0,no,Cantt,6058.0
+31,male,19.4,5,no,Cantt,2000.0
+25,male,19.5,2,no,Gulberg,4152.0
+30,female,24.1,1,yes,Iqbal Town,11478.0
+51,female,26.4,1,no,Wapda Town,6207.0
+55,male,19.6,3,no,Model Town,4758.0
+20,female,20.9,5,yes,Iqbal Town,10072.0
+44,female,24.2,0,no,Johar Town,6105.0
+47,female,22.6,4,yes,DHA,12007.0
+36,male,31.4,5,yes,Iqbal Town,11135.0
+40,male,20.8,5,no,Model Town,3122.0
+53,female,21.4,1,no,Model Town,3735.0
+45,female,24.8,5,no,Wapda Town,2758.0
+41,female,26.1,3,yes,Cantt,13687.0
+40,female,17.0,1,no,Iqbal Town,3264.0
+48,female,21.2,1,no,Johar Town,4237.0
+58,male,24.4,3,no,DHA,3990.0
+48,female,26.2,1,no,Gulberg,4565.0
+55,female,21.5,0,yes,Johar Town,11802.0
+67,male,17.7,3,no,Gulberg,3453.0
+46,female,22.3,3,yes,Cantt,12845.0
+18,female,24.7,1,no,Johar Town,2999.0
+53,female,19.8,1,no,Wapda Town,5613.0
+30,female,16.5,3,no,Johar Town,2000.0
+34,female,19.2,1,yes,Wapda Town,11912.0
+46,female,30.3,1,yes,DHA,14062.0
+38,male,20.7,4,no,Gulberg,3205.0
+54,female,24.4,5,no,Johar Town,3261.0
+37,female,24.8,2,no,Gulberg,2887.0
+54,female,23.4,3,no,Model Town,5177.0
+52,female,22.2,1,no,DHA,5188.0
+52,male,24.0,0,yes,Cantt,11950.0
+54,female,23.4,4,no,Johar Town,3563.0
+19,female,26.5,2,no,Cantt,4046.0
+39,female,19.4,0,no,Gulberg,4070.0
+40,male,19.8,3,no,Wapda Town,4071.0
+45,male,29.3,5,no,DHA,5111.0
+38,female,22.6,0,no,Gulberg,4462.0
+60,female,31.9,2,no,Cantt,6687.0
+66,female,24.2,3,yes,Cantt,13762.0
+27,male,22.0,5,no,Johar Town,2000.0
+55,female,23.1,0,no,DHA,4853.0
+55,female,20.0,0,no,Cantt,3590.0
+69,male,25.9,3,yes,Wapda Town,13640.0
+43,female,22.9,5,no,Wapda Town,2000.0
+45,male,22.5,3,no,Gulberg,2886.0
+44,female,21.1,5,yes,Cantt,11525.0
+64,female,23.0,5,no,Johar Town,4953.0
+49,male,26.8,4,no,DHA,5351.0
+24,female,19.0,2,no,Johar Town,3029.0
+30,female,18.1,3,no,Wapda Town,2592.0
+26,female,29.0,0,no,Iqbal Town,5785.0
+62,female,24.7,5,yes,Model Town,10733.0
+57,female,23.6,3,no,DHA,5609.0
+43,male,19.4,3,no,Model Town,4190.0
+26,female,24.8,3,no,Cantt,5070.0
+32,male,19.6,3,no,Wapda Town,3443.0
+34,female,21.4,1,no,Iqbal Town,4699.0
+42,male,23.6,1,no,Iqbal Town,3110.0
+36,female,25.3,3,no,Johar Town,4622.0
+45,female,22.5,2,no,Johar Town,5363.0
+66,male,25.4,5,no,Gulberg,5235.0
+64,male,27.7,0,no,Johar Town,4502.0
+43,female,20.7,5,no,DHA,3210.0
+55,male,34.4,2,no,Model Town,7488.0
+49,male,34.1,4,no,Model Town,5990.0
+39,female,24.0,5,no,Cantt,4849.0
+27,male,25.3,2,yes,Iqbal Town,11020.0
+46,male,20.7,3,no,Wapda Town,3416.0
+61,female,25.8,3,no,Wapda Town,4843.0
+58,female,25.5,3,no,Johar Town,5047.0
+65,female,26.2,5,no,Wapda Town,4431.0
+28,female,23.5,4,no,Wapda Town,3698.0
+36,male,24.0,1,no,Johar Town,3922.0
+21,female,21.7,3,no,Johar Town,2704.0
+51,female,20.7,1,no,Iqbal Town,3584.0
+25,female,30.3,4,no,DHA,4610.0
+47,female,20.2,0,no,Wapda Town,5745.0
+34,female,27.3,2,no,DHA,3464.0
+67,female,24.0,0,no,Model Town,5373.0
+53,male,32.2,4,no,DHA,3942.0
+45,female,26.5,1,no,Iqbal Town,3748.0
+19,female,18.9,2,no,Model Town,3941.0
+44,female,23.9,4,yes,Iqbal Town,12217.0
+53,male,24.1,0,yes,Johar Town,13761.0
+44,female,24.0,0,no,Wapda Town,6121.0
+66,female,26.5,2,no,Johar Town,4252.0
+47,male,18.5,1,no,Johar Town,2492.0
+46,male,30.0,3,no,Iqbal Town,4433.0
+35,male,21.2,1,no,Gulberg,4022.0
+37,female,26.9,3,yes,Iqbal Town,12679.0
+28,male,22.8,0,yes,Iqbal Town,11173.0
+51,male,29.0,4,no,Wapda Town,3876.0
+21,female,17.8,2,no,Iqbal Town,3098.0
+29,female,31.9,1,no,Iqbal Town,4571.0
+62,female,27.1,1,no,DHA,5194.0
+38,male,24.8,5,no,Cantt,2326.0
+59,male,26.5,4,no,Wapda Town,6056.0
+58,male,29.9,2,no,Johar Town,5786.0
+63,male,15.6,2,no,Gulberg,3706.0
+53,female,24.8,1,no,Johar Town,4595.0
+41,male,22.2,0,no,Gulberg,4132.0
+69,male,27.7,4,yes,DHA,12740.0
+58,female,21.3,1,no,Iqbal Town,5260.0
+56,female,24.1,5,yes,Johar Town,12460.0
+37,female,26.7,0,no,DHA,4254.0
+40,male,21.4,1,no,DHA,3175.0
+54,female,27.5,5,yes,Iqbal Town,11898.0
+65,male,28.3,2,no,Gulberg,5425.0
+53,female,29.8,0,no,Wapda Town,7172.0
+48,male,19.1,1,no,Johar Town,4907.0
+51,female,25.7,2,no,Cantt,4986.0
+39,female,29.6,0,no,Gulberg,5601.0
+65,male,30.2,4,no,Johar Town,4405.0
+66,female,20.0,0,no,DHA,4346.0
+68,male,28.4,1,no,DHA,5971.0
+49,male,25.3,2,no,Model Town,4208.0
+64,female,28.3,5,no,DHA,5650.0
+51,male,29.7,2,yes,DHA,14512.0
+26,female,18.8,3,yes,Iqbal Town,10167.0
+34,male,21.1,0,no,Iqbal Town,3019.0
+64,female,30.5,0,no,DHA,5499.0
+32,female,15.4,3,no,Iqbal Town,2928.0
+21,female,22.8,3,yes,Iqbal Town,10130.0
+31,female,23.7,1,no,DHA,5102.0
+51,male,19.9,2,no,Johar Town,2912.0
+23,female,22.6,0,no,Johar Town,4293.0
+57,female,24.0,2,no,Model Town,6035.0
+57,female,21.4,4,no,Cantt,4471.0
+52,male,26.7,3,no,Cantt,4178.0
+19,male,26.9,5,no,Wapda Town,3534.0
+54,female,23.2,2,no,Gulberg,5260.0
+36,male,24.1,2,yes,Gulberg,12788.0
+33,male,24.4,3,no,Wapda Town,4448.0
+28,male,24.3,4,no,Johar Town,3178.0
+34,female,23.6,3,no,Gulberg,4946.0
+50,male,28.8,5,yes,Iqbal Town,13308.0
+58,female,19.5,1,no,Gulberg,4855.0
+56,female,28.9,3,no,Cantt,3842.0
+37,female,28.5,5,no,Johar Town,4587.0
+46,female,29.8,3,no,Model Town,5759.0
+35,male,25.9,1,yes,Wapda Town,12928.0
+23,female,22.9,1,yes,Iqbal Town,10314.0
+58,female,27.6,0,no,DHA,4242.0
+66,male,30.1,3,yes,Wapda Town,12394.0
+20,male,25.7,1,no,Model Town,3966.0
+27,male,20.2,5,no,Wapda Town,2000.0
+60,male,21.3,5,yes,Model Town,10224.0
+58,female,25.4,5,no,Model Town,3387.0
+36,male,32.0,5,no,Cantt,5607.0
+39,female,29.0,2,no,DHA,4936.0
+44,female,28.8,5,no,Cantt,4286.0
+53,female,28.1,2,no,Gulberg,6451.0
+46,male,34.6,2,no,Iqbal Town,5844.0
+65,male,22.1,4,no,Johar Town,4815.0
+39,female,18.2,4,no,Wapda Town,2000.0
+66,male,31.7,4,no,Cantt,4099.0
+66,male,28.8,1,no,DHA,6296.0
+62,female,24.3,5,yes,Wapda Town,12158.0
+49,male,28.6,1,yes,Johar Town,13746.0
+67,female,19.5,2,no,Johar Town,3914.0
+38,male,25.5,3,no,Iqbal Town,3027.0
+26,male,29.3,2,yes,Cantt,13729.0
+45,female,30.3,1,no,Wapda Town,4059.0
+62,male,31.2,0,no,Johar Town,5165.0
+64,male,22.9,4,yes,Wapda Town,10842.0
+51,female,21.2,2,no,Wapda Town,5312.0
+20,male,27.8,1,no,Johar Town,3051.0
+27,female,18.6,1,no,Model Town,2659.0
+36,male,18.7,5,no,Cantt,2000.0
+55,male,25.8,0,no,Wapda Town,5054.0
+44,male,22.9,1,no,Cantt,5851.0
+23,female,24.2,2,no,Wapda Town,4619.0
+66,female,22.3,1,no,Johar Town,4661.0
+55,male,31.5,1,no,Iqbal Town,6610.0
+67,male,28.2,3,no,Model Town,5070.0
+39,female,24.7,2,no,Gulberg,5005.0
+30,male,26.1,4,no,Iqbal Town,4945.0
+41,female,16.3,3,no,Wapda Town,3305.0
+18,male,24.0,1,no,DHA,4875.0
+55,female,29.8,5,yes,Cantt,13368.0
+46,female,27.2,4,no,Iqbal Town,4515.0
+36,female,25.4,2,no,Johar Town,3968.0
+18,female,19.7,1,no,Johar Town,3798.0
+38,female,20.7,4,no,Johar Town,2518.0
+69,female,24.4,5,no,Cantt,5728.0
+49,male,26.5,4,no,Cantt,4691.0
+59,male,20.4,0,no,Wapda Town,4870.0
+26,female,20.9,5,no,Wapda Town,3185.0
+52,male,27.2,4,no,Model Town,3984.0
+34,female,15.4,3,no,Johar Town,2282.0
+20,male,25.1,0,yes,Model Town,12234.0
+54,male,25.9,4,no,Wapda Town,5822.0
+69,male,24.3,0,no,Gulberg,5164.0
+38,female,22.8,1,no,Iqbal Town,5137.0
+61,male,21.0,0,no,Cantt,3628.0
+60,male,26.2,1,no,Cantt,6236.0
+27,male,30.5,1,no,Model Town,4340.0
+45,female,31.3,2,no,DHA,3957.0
+64,male,20.5,5,no,Johar Town,2575.0
+25,female,21.7,2,no,Johar Town,4704.0
+64,male,28.1,2,no,Model Town,4965.0
+64,female,25.5,1,yes,Cantt,13004.0
+67,female,26.1,0,no,Model Town,6460.0
+65,female,16.2,4,no,DHA,2801.0
+46,female,25.4,0,no,Wapda Town,5576.0
+22,female,23.8,1,no,Gulberg,5289.0
+24,female,26.1,2,yes,Cantt,11796.0
+20,male,31.3,4,no,DHA,3926.0
+49,female,26.5,5,no,Gulberg,4849.0
+18,male,27.4,4,no,Iqbal Town,2597.0
+33,male,24.6,5,no,DHA,4046.0
+31,female,22.9,4,yes,DHA,10339.0
+19,male,24.3,2,yes,DHA,11007.0
+47,female,13.9,0,no,Wapda Town,2851.0
+68,female,20.4,5,no,Wapda Town,4881.0
+64,female,21.3,0,no,DHA,5466.0
+32,female,24.8,4,no,Model Town,2719.0
+30,female,21.8,4,no,Johar Town,2093.0
+37,female,19.7,5,no,Johar Town,3385.0
+57,male,23.2,2,no,Wapda Town,3178.0
+21,male,33.0,1,no,Cantt,6417.0
+49,male,24.9,2,no,Cantt,3081.0
+19,female,23.2,3,no,Johar Town,4233.0
+51,male,34.4,4,yes,Gulberg,14936.0
+65,male,31.6,4,no,Gulberg,4935.0
+49,female,25.7,1,no,DHA,3672.0
+52,female,28.3,4,no,Iqbal Town,5153.0
+45,male,32.1,0,no,Gulberg,6694.0
+23,female,25.4,2,no,Gulberg,2418.0
+43,female,24.9,3,no,Wapda Town,3799.0
+39,male,22.8,4,no,Wapda Town,4798.0
+33,female,28.2,2,yes,Cantt,11804.0
+62,male,24.5,3,no,Gulberg,5282.0
+28,male,20.4,0,no,Johar Town,3036.0
+67,female,28.6,1,no,Cantt,5851.0
+66,female,22.3,5,no,Cantt,4050.0
+64,male,31.3,4,no,DHA,5628.0
+62,female,26.9,3,no,Wapda Town,4491.0
+63,male,27.9,5,yes,DHA,13976.0
+32,male,20.5,3,no,Iqbal Town,4296.0
+23,male,28.7,3,no,Gulberg,4255.0
+45,female,26.8,0,no,Model Town,5983.0
+39,female,25.4,5,no,Gulberg,4688.0
+23,male,19.7,0,no,Iqbal Town,2696.0
+57,male,24.2,4,no,Model Town,4467.0
+19,female,30.5,2,no,Wapda Town,3385.0
+55,male,30.6,4,no,Johar Town,4455.0
+62,female,20.8,2,no,DHA,3020.0
+32,male,21.7,2,yes,Iqbal Town,11213.0
+38,male,21.4,2,no,Johar Town,3488.0
+47,male,30.3,2,yes,Johar Town,14209.0
+48,male,20.8,5,no,Cantt,4579.0
+66,female,25.5,2,no,Gulberg,4880.0
+22,male,30.4,4,no,Wapda Town,3554.0
+36,female,24.6,2,no,Iqbal Town,4834.0
+27,female,24.1,4,no,Model Town,2348.0
+37,male,30.2,2,no,Wapda Town,4906.0
+45,male,26.8,4,no,Gulberg,4510.0
+22,male,30.5,3,no,Cantt,3146.0
+31,female,26.2,2,no,Wapda Town,5224.0
+35,female,27.8,2,yes,Cantt,12406.0
+22,male,24.6,0,no,Iqbal Town,3819.0
+42,female,18.8,2,no,Model Town,2864.0
+24,female,27.5,3,no,Wapda Town,3982.0
+57,female,22.4,0,no,Johar Town,6204.0
+31,female,31.3,1,yes,Gulberg,14258.0
+65,female,16.0,3,no,Cantt,2959.0
+20,male,17.8,3,no,Gulberg,2000.0
+47,male,26.9,0,no,Model Town,6710.0
+53,male,29.9,5,no,Iqbal Town,4770.0
+25,female,24.8,3,yes,DHA,10506.0
+57,male,22.7,1,yes,Gulberg,12477.0
+37,female,19.5,4,no,DHA,2489.0
+65,male,28.5,2,no,Johar Town,4432.0
+41,male,23.6,0,no,Model Town,4958.0
+25,female,21.5,4,yes,Gulberg,9432.0
+37,male,22.7,3,no,DHA,4385.0
+59,male,18.3,5,no,Wapda Town,4064.0
+63,female,21.3,3,yes,Cantt,12262.0
+37,male,25.3,1,no,DHA,4699.0
+27,female,23.6,3,no,Cantt,2296.0
+57,male,22.9,3,no,Wapda Town,4879.0
+57,male,28.2,4,no,Iqbal Town,4849.0
+27,male,21.1,3,no,Johar Town,2676.0
+30,female,22.5,5,no,DHA,3394.0
+40,male,27.3,5,no,Gulberg,3079.0
+28,female,29.4,4,no,DHA,4324.0
+27,female,25.1,5,no,Model Town,2000.0
+61,female,23.6,0,no,DHA,4730.0
+48,female,16.9,1,no,Wapda Town,4600.0
+59,male,22.5,5,no,Model Town,2683.0
+65,male,20.5,1,no,DHA,3152.0
+57,female,19.7,4,no,DHA,4555.0
+26,female,26.4,3,yes,Cantt,11689.0
+38,female,30.8,3,no,DHA,5123.0
+36,male,25.7,3,no,DHA,3848.0
+52,male,24.8,3,no,Model Town,4166.0
+49,male,27.0,5,no,Model Town,3927.0
+62,female,31.6,1,no,Iqbal Town,7546.0
+21,female,30.5,3,no,Wapda Town,3797.0
+42,female,20.5,5,no,Model Town,2583.0
+47,female,27.8,2,no,DHA,3896.0
+62,male,29.4,4,no,Wapda Town,5854.0
+25,male,25.2,5,yes,Iqbal Town,11883.0
+31,male,24.8,2,no,Iqbal Town,4390.0
+22,male,29.0,5,no,Model Town,3303.0
+58,male,26.5,3,no,Cantt,4990.0
+39,female,17.3,3,yes,Johar Town,11959.0
+59,female,26.1,4,no,Johar Town,4069.0
+53,male,30.9,0,no,Iqbal Town,6308.0
+30,female,23.9,1,no,Gulberg,4424.0
+40,female,20.4,5,no,Wapda Town,3001.0
+43,female,25.7,4,no,Wapda Town,2645.0
+42,female,29.5,4,yes,Iqbal Town,13234.0
+19,male,26.3,5,no,Gulberg,2631.0
+49,female,30.4,1,no,Johar Town,6780.0
+47,male,34.1,5,no,Wapda Town,6267.0
+34,female,22.9,2,no,Cantt,3663.0
+26,female,30.1,4,yes,Gulberg,10688.0
+69,male,25.3,5,no,DHA,3874.0
+69,male,28.6,0,no,Model Town,6242.0
+29,female,27.0,0,no,Model Town,6053.0
+25,male,22.7,0,no,DHA,2605.0
+59,female,21.8,5,yes,Gulberg,11350.0
+56,female,25.3,1,no,Gulberg,4050.0
+38,male,24.2,5,no,DHA,3147.0
+55,female,30.1,2,no,Model Town,4862.0
+41,female,24.6,0,no,DHA,5220.0
+19,male,28.0,3,no,Model Town,5327.0
+23,female,24.8,2,yes,DHA,10535.0
+45,female,25.3,1,no,Gulberg,6156.0
+53,male,28.1,1,no,Gulberg,5310.0
+49,male,17.8,3,no,Iqbal Town,2413.0
+52,male,28.3,5,yes,Wapda Town,11619.0
+45,male,22.7,0,no,DHA,5398.0
+25,female,19.0,1,no,Model Town,2649.0
+61,female,22.0,3,no,Iqbal Town,3485.0
+31,male,23.4,4,no,Iqbal Town,4482.0
+51,female,18.7,2,no,Model Town,2304.0
+22,male,29.4,2,no,Model Town,5345.0
+33,female,23.2,0,no,Model Town,2838.0
+43,male,31.9,1,no,Johar Town,5315.0
+67,male,30.5,0,no,Wapda Town,5351.0
+19,male,21.6,5,no,DHA,2245.0
+38,male,30.9,5,yes,Model Town,11341.0
+50,female,23.0,3,no,Iqbal Town,4554.0
+32,female,27.1,0,no,Wapda Town,4966.0
+23,female,29.5,0,yes,Wapda Town,11932.0
+61,female,27.4,1,yes,DHA,13915.0
+52,male,31.0,5,no,Cantt,6069.0
+20,female,29.6,3,yes,Wapda Town,13057.0
+28,male,17.8,4,no,Iqbal Town,2000.0
+62,female,23.2,2,no,Gulberg,4167.0
+46,female,21.4,4,yes,Gulberg,10689.0
+65,female,26.8,2,no,Iqbal Town,4399.0
+45,female,28.0,3,yes,Model Town,13592.0
+43,male,28.7,4,no,Wapda Town,4516.0
+45,female,27.2,1,no,Johar Town,5523.0
+56,male,25.7,1,yes,Wapda Town,12318.0
+69,female,25.8,0,no,DHA,4864.0
+39,male,28.2,0,yes,DHA,13597.0
+59,male,20.7,5,no,Cantt,3445.0
+32,male,25.6,4,no,Model Town,2709.0
+64,male,31.3,0,no,Cantt,6537.0
+43,female,25.1,5,no,Model Town,4959.0
+52,female,22.8,5,yes,Model Town,12988.0
+25,female,25.9,2,no,Model Town,3170.0
+48,male,27.8,4,no,Wapda Town,3086.0
+23,male,23.9,0,no,DHA,2758.0
+64,female,24.9,4,no,Johar Town,5207.0
+23,female,25.8,1,no,Johar Town,4533.0
+31,female,20.1,5,yes,Wapda Town,11137.0
+61,male,27.1,2,yes,Wapda Town,12212.0
+52,female,20.4,0,no,Cantt,5194.0
+37,female,15.3,3,no,Wapda Town,2000.0
+34,female,28.6,2,no,Wapda Town,4055.0
+52,female,19.7,1,no,Gulberg,5292.0
+54,male,18.9,5,yes,DHA,9687.0
+33,female,19.2,4,no,DHA,2647.0
+20,male,24.8,5,no,Model Town,2000.0
+32,male,27.4,3,no,Johar Town,5078.0
+59,female,23.0,4,no,Cantt,5481.0
+52,female,22.9,1,no,Johar Town,5618.0
+46,male,23.6,3,no,Cantt,3366.0
+62,male,27.0,5,no,Cantt,3253.0
+35,female,22.5,1,no,Wapda Town,3676.0
+54,male,25.4,2,no,DHA,6163.0
+59,female,24.8,2,no,DHA,5685.0
+49,female,23.6,0,no,Cantt,5467.0
+49,male,27.7,5,no,Johar Town,4410.0
+52,male,25.5,2,no,DHA,5921.0
+59,male,28.3,2,no,Iqbal Town,4408.0
+29,male,31.1,0,no,Johar Town,6798.0
+26,female,28.4,1,no,Cantt,4153.0
+64,female,23.6,5,no,Model Town,3142.0
+51,female,13.2,4,no,Iqbal Town,2556.0
+64,female,25.6,0,no,Model Town,4419.0
+47,male,27.0,0,yes,Model Town,13921.0
+52,female,19.5,2,no,Iqbal Town,3846.0
+38,female,25.4,4,no,Model Town,3640.0
+24,male,24.5,1,no,Cantt,2876.0
+59,female,22.0,1,yes,Iqbal Town,13890.0
+28,female,23.4,2,yes,Cantt,10459.0
+43,female,23.9,5,no,Johar Town,3734.0
+60,male,25.6,3,no,Model Town,4339.0
+21,female,23.8,5,no,Cantt,2461.0
+44,female,19.9,5,yes,Wapda Town,11772.0
+29,male,29.7,4,no,Wapda Town,4662.0
+34,female,21.2,3,no,Iqbal Town,2000.0
+22,male,21.7,1,yes,Gulberg,12579.0
+45,female,24.6,4,yes,Gulberg,10898.0
+33,male,24.0,5,no,Model Town,3559.0
+62,male,27.5,4,no,Model Town,4163.0
+53,male,28.1,5,no,Iqbal Town,4141.0
+30,male,31.3,2,no,Cantt,4567.0
+46,male,27.3,3,no,Iqbal Town,4551.0
+53,female,20.0,1,yes,Gulberg,12213.0
+53,male,25.0,5,no,Gulberg,4063.0
+40,female,21.5,5,no,Iqbal Town,4389.0
+39,male,29.0,3,no,Model Town,5804.0
+53,male,29.4,0,yes,Iqbal Town,12739.0
+49,male,27.4,3,yes,Johar Town,13133.0
+22,male,27.9,4,yes,Johar Town,12626.0
+21,male,23.2,4,no,Wapda Town,4245.0
+30,female,26.4,0,no,Gulberg,3243.0
+48,female,28.5,2,no,Cantt,4058.0
+49,female,18.7,1,no,Iqbal Town,2916.0
+41,female,31.1,0,no,Gulberg,5182.0
+33,female,27.7,4,no,Gulberg,5488.0
+43,male,28.2,1,no,Gulberg,4903.0
+34,female,20.2,1,no,DHA,2711.0
+59,female,21.3,3,yes,Cantt,11110.0
+43,male,23.9,2,no,Gulberg,4897.0
+29,male,24.9,2,no,Wapda Town,5117.0
+66,male,22.0,4,no,Model Town,4068.0
+59,male,24.6,0,no,Iqbal Town,4430.0
+58,female,19.0,5,yes,Wapda Town,12502.0
+39,female,27.1,0,no,Cantt,4474.0
+60,male,27.5,3,no,Gulberg,4098.0
+29,male,21.1,1,yes,Wapda Town,13125.0
+49,female,25.7,3,no,DHA,4683.0
+68,female,25.6,3,no,Cantt,4052.0
+44,male,30.7,1,yes,DHA,14665.0
+29,male,28.0,4,no,Johar Town,4686.0
+56,female,20.9,5,no,Cantt,4743.0
+41,male,26.0,5,no,Cantt,4926.0
+29,female,24.5,4,no,Johar Town,4015.0
+31,male,25.5,4,no,Iqbal Town,3709.0
+42,female,27.5,3,no,Iqbal Town,3208.0
+20,male,24.0,4,no,Model Town,3130.0
+22,male,30.7,5,no,Johar Town,4411.0
+31,male,31.7,5,no,Wapda Town,2834.0
+34,female,26.7,5,yes,DHA,10665.0
+61,female,31.8,0,no,Cantt,7278.0
+64,female,16.0,2,no,DHA,4407.0
+57,male,26.0,2,no,Cantt,5389.0
+60,male,20.8,5,yes,Gulberg,12425.0
+49,male,23.0,4,no,Gulberg,3343.0
+52,male,26.5,0,no,Gulberg,4132.0
+19,female,27.7,4,no,Wapda Town,3248.0
+44,female,22.7,3,yes,Model Town,13199.0
+49,female,23.2,2,no,Gulberg,5423.0
+41,male,22.8,2,no,DHA,2842.0
+20,female,23.3,0,no,Gulberg,4539.0
+64,male,25.5,3,no,Cantt,3981.0
+46,female,16.0,2,no,Model Town,4032.0
+52,male,22.8,3,no,DHA,5441.0
+26,female,25.4,3,no,Iqbal Town,3167.0
+36,male,29.0,4,no,Johar Town,3133.0
+39,female,29.8,3,no,Gulberg,5097.0
+62,male,24.6,3,no,DHA,5878.0
+43,male,27.7,2,no,Gulberg,3346.0
+60,male,29.7,2,no,Iqbal Town,4151.0
+68,male,23.0,3,no,Model Town,4510.0
+31,female,23.7,2,yes,Johar Town,11858.0
+60,male,25.3,2,no,Iqbal Town,4545.0
+63,male,32.8,3,no,Cantt,4530.0
+57,female,28.4,2,yes,Cantt,13578.0
+64,female,29.6,4,no,Wapda Town,3971.0
+29,female,18.6,1,no,Iqbal Town,4121.0
+29,male,28.8,5,no,Model Town,4154.0
+33,female,23.0,0,no,Gulberg,4836.0
+69,male,22.1,0,no,DHA,4379.0
+28,female,30.5,3,no,Cantt,3436.0
+40,male,23.4,2,no,Johar Town,4644.0
+43,male,30.2,0,yes,Gulberg,12220.0
+36,male,26.0,2,no,Gulberg,4762.0
+47,female,21.1,3,no,Model Town,2789.0
+32,male,27.2,5,no,Cantt,2284.0
+64,female,23.9,4,no,Johar Town,4173.0
+69,male,22.1,0,no,Model Town,6685.0
+39,female,15.0,0,no,DHA,2089.0
+58,female,21.7,4,yes,Gulberg,12401.0
+44,male,22.9,3,no,Johar Town,3269.0
+61,male,21.5,0,no,Model Town,3687.0
+43,female,22.6,3,no,Cantt,3436.0
+47,female,20.9,4,no,DHA,2248.0
+53,female,23.0,1,no,Gulberg,4651.0
+60,male,29.4,1,yes,DHA,14619.0
+46,female,24.6,2,yes,Iqbal Town,13470.0
+48,male,23.0,5,no,Model Town,3498.0
+56,female,24.7,0,no,Cantt,4535.0
+47,male,30.1,3,no,Johar Town,3551.0
+35,female,21.4,1,no,Gulberg,3314.0
+24,female,19.3,1,no,Iqbal Town,4555.0
+62,male,30.7,5,no,DHA,3570.0
+25,female,23.4,1,no,Cantt,5338.0
+54,female,29.6,5,no,Gulberg,4000.0
+50,male,27.6,5,yes,Model Town,12755.0
+26,male,24.0,5,yes,Johar Town,12394.0
+46,female,21.3,1,no,Gulberg,2854.0
+61,male,24.4,5,yes,Cantt,12718.0
+24,female,23.1,4,no,Iqbal Town,3060.0
+61,female,27.2,2,yes,Iqbal Town,12107.0
+28,male,27.3,0,no,Wapda Town,3831.0
+41,female,28.8,5,no,Gulberg,5074.0
+23,male,16.3,4,no,Model Town,3198.0
+33,male,20.0,5,yes,Johar Town,10284.0
+49,female,26.3,0,yes,Cantt,13055.0
+39,female,18.9,4,no,Iqbal Town,2691.0
+59,female,27.2,2,no,Model Town,4813.0
+32,male,24.0,4,yes,Gulberg,10740.0
+20,male,23.9,2,yes,Cantt,12429.0
+64,male,23.8,5,no,Johar Town,3022.0
+36,male,24.6,1,yes,Model Town,12778.0
+21,female,26.3,2,yes,Model Town,10919.0
+62,female,28.2,2,no,Cantt,4790.0
+31,female,35.0,4,yes,DHA,13427.0
+24,female,24.7,4,no,Cantt,2266.0
+27,male,20.7,2,no,Johar Town,4575.0
+25,female,22.2,3,no,Cantt,4566.0
+43,male,25.1,5,no,Johar Town,3497.0
+58,male,30.4,0,yes,Gulberg,15562.0
+30,male,29.7,2,no,DHA,4828.0
+35,male,22.2,3,no,Iqbal Town,3204.0
+44,female,26.0,0,no,Cantt,4282.0
+37,male,24.6,0,yes,Model Town,13002.0
+20,male,26.2,1,no,Gulberg,4522.0
+33,male,20.9,3,yes,Cantt,10297.0
+64,male,25.9,1,no,Gulberg,4157.0
+62,male,29.3,4,no,Johar Town,4416.0
+28,female,23.8,2,no,DHA,5071.0
+43,male,26.2,3,no,Wapda Town,5220.0
+18,female,24.2,2,no,Cantt,2327.0
+39,male,28.0,1,no,Gulberg,4279.0
+45,female,21.9,3,no,Cantt,2762.0
+50,male,27.7,4,yes,Cantt,12363.0
+54,male,27.9,1,no,Gulberg,5793.0
+52,male,33.9,5,no,Johar Town,6095.0
+39,female,22.2,3,no,Cantt,5067.0
+62,female,21.7,2,no,Model Town,3085.0
+49,female,19.3,5,no,Iqbal Town,3212.0
+35,male,21.3,0,yes,DHA,11474.0
+44,male,27.1,4,no,DHA,3881.0
+41,female,28.8,3,no,Johar Town,3291.0
+44,male,23.5,0,no,Iqbal Town,4403.0
+48,female,24.2,4,no,Model Town,4675.0
+40,female,18.4,3,no,Gulberg,2000.0
+45,female,25.4,0,no,Model Town,4072.0
+58,female,34.0,5,no,Johar Town,6572.0
+55,male,24.9,1,no,Iqbal Town,5711.0
+52,male,23.6,0,yes,Model Town,14371.0
+35,female,20.4,4,no,Model Town,3690.0
+18,female,29.5,3,no,DHA,4881.0
+66,female,24.9,0,no,Model Town,5172.0
+46,male,30.3,2,no,Gulberg,5081.0
+42,male,27.3,0,no,Gulberg,4855.0
+50,male,26.8,1,yes,Cantt,13552.0
+57,female,20.7,4,no,Cantt,4557.0
+38,male,21.7,1,yes,Johar Town,10905.0
+58,male,26.3,3,no,Iqbal Town,4272.0
+41,female,18.8,3,no,Wapda Town,2000.0
+48,male,30.3,3,no,Wapda Town,5175.0
+32,female,26.4,2,no,Cantt,3481.0
+22,male,35.2,1,no,Johar Town,6466.0
+46,female,18.1,4,yes,Cantt,12302.0
+62,female,20.1,2,yes,Wapda Town,10840.0
+63,female,28.0,0,yes,Wapda Town,14748.0
+28,male,24.1,4,no,Wapda Town,2576.0
+30,female,22.5,3,no,Wapda Town,3140.0
+26,male,22.9,3,no,Model Town,2000.0
+57,male,30.3,4,no,Gulberg,4557.0
+31,male,29.5,0,yes,Gulberg,13861.0
+37,female,22.9,3,yes,Gulberg,11503.0
+62,male,30.8,3,no,Cantt,4614.0
+23,female,27.6,2,no,Iqbal Town,3406.0
+35,female,21.4,4,no,Gulberg,2000.0
+36,male,21.9,5,yes,Wapda Town,12351.0
+33,male,27.9,0,no,Cantt,3979.0
+52,female,25.8,5,yes,Gulberg,12060.0
+55,female,23.2,0,yes,Wapda Town,11893.0
+64,female,24.2,5,yes,DHA,11971.0
+25,male,26.7,2,no,Johar Town,5604.0
+62,female,21.0,4,no,Cantt,4978.0
+27,female,21.7,1,no,Iqbal Town,3464.0
+46,male,27.7,5,no,Iqbal Town,4936.0
+34,female,19.4,2,no,Johar Town,4506.0
+45,male,28.9,2,yes,Model Town,12791.0
+31,female,20.7,5,no,Johar Town,2000.0
+47,male,25.6,2,no,Iqbal Town,5446.0
+37,female,27.8,0,no,Cantt,5954.0
+46,male,23.2,5,no,Johar Town,4427.0
+20,female,23.2,5,yes,Cantt,11684.0
+40,male,33.2,0,no,Iqbal Town,6846.0
+59,male,20.6,3,no,Model Town,3036.0
+34,female,24.8,2,no,Iqbal Town,2908.0
+65,male,28.1,5,no,DHA,4573.0
+31,male,29.4,4,no,Iqbal Town,3053.0
+48,female,25.4,1,no,Model Town,3396.0
+31,female,26.4,1,yes,Johar Town,12012.0
+23,male,29.6,2,no,DHA,4031.0
+30,male,24.5,0,yes,Iqbal Town,10930.0
+57,male,21.9,5,no,Model Town,3889.0
+30,female,22.8,0,yes,Johar Town,12365.0
+32,female,18.5,1,yes,Model Town,11273.0
+24,female,19.0,4,yes,Gulberg,10883.0
+42,male,25.3,5,no,Johar Town,4003.0
+47,male,25.6,4,no,Cantt,2736.0
+39,female,26.0,1,no,Gulberg,4475.0
+60,female,22.1,0,no,Gulberg,3768.0
+19,female,24.8,5,no,Johar Town,2927.0
+56,male,28.2,0,no,Iqbal Town,4567.0
+37,male,22.8,1,no,DHA,5063.0
+26,female,34.6,2,no,Iqbal Town,3946.0
+39,female,21.1,5,no,Iqbal Town,2110.0
+50,female,26.1,1,no,Johar Town,3734.0
+50,male,21.9,4,no,DHA,2976.0
+60,male,30.4,2,no,Model Town,7065.0
+45,female,27.1,3,no,Iqbal Town,4168.0
+33,female,20.7,1,yes,Johar Town,10587.0
+59,male,29.2,1,no,Model Town,6591.0
+66,female,18.3,4,no,Johar Town,2298.0
+59,female,25.2,5,yes,Gulberg,12401.0
+51,male,27.7,1,yes,DHA,14496.0
+24,female,25.3,5,no,Johar Town,2012.0
+18,male,26.0,3,no,Johar Town,2739.0
+69,female,22.3,1,no,Gulberg,5454.0
+64,male,28.6,3,no,DHA,5438.0
+68,female,18.6,5,no,Model Town,4637.0
+52,female,24.6,5,no,Gulberg,4979.0
+39,female,25.1,0,no,Johar Town,4804.0
+65,female,30.8,1,no,DHA,5434.0
+34,female,28.5,5,no,Gulberg,3473.0
+20,female,19.2,2,no,Model Town,2408.0
+51,male,26.7,4,yes,Cantt,11985.0
+18,male,31.2,2,no,Johar Town,5922.0
+33,male,27.0,1,no,Gulberg,5876.0
+18,female,23.0,3,no,Cantt,3807.0
+60,female,24.2,3,no,Cantt,5445.0
+63,male,27.0,4,no,Wapda Town,3539.0
+31,female,32.5,1,yes,Cantt,14045.0
+34,female,18.9,4,no,Wapda Town,4019.0
+39,female,27.2,5,yes,Wapda Town,11315.0
+23,female,29.2,2,no,DHA,3243.0
+62,female,21.3,2,no,Cantt,5830.0
+32,male,22.7,3,yes,Wapda Town,12304.0
+44,male,24.4,5,no,Gulberg,3919.0
+31,male,27.1,4,no,Johar Town,3212.0
+32,male,31.7,0,no,Johar Town,4239.0
+40,female,29.5,2,no,Gulberg,6273.0
+48,female,19.0,5,no,Johar Town,3959.0
+24,male,21.6,1,no,Cantt,4497.0
+53,female,17.7,0,yes,DHA,13573.0
+64,male,27.3,1,no,Gulberg,5704.0
+29,female,30.4,5,no,Wapda Town,3865.0
+34,female,27.3,5,no,Wapda Town,4091.0
+19,male,27.3,4,no,Cantt,4883.0
+40,female,14.6,3,yes,Gulberg,10687.0
+43,male,24.5,4,no,Johar Town,4635.0
+55,male,25.4,0,yes,Gulberg,14114.0
+57,male,26.9,4,no,Cantt,4266.0
+49,female,18.3,0,no,Model Town,3646.0
+41,female,25.9,4,no,Iqbal Town,4453.0
+47,female,23.1,1,no,Gulberg,3680.0
+38,female,17.1,1,no,Model Town,2394.0
+35,female,22.2,1,yes,Gulberg,12101.0
+54,female,18.8,5,no,Iqbal Town,2513.0
+48,male,27.7,3,no,Iqbal Town,5141.0
+37,female,30.7,3,yes,DHA,11397.0
+32,female,31.0,2,no,Cantt,4701.0
+54,female,31.8,5,no,DHA,5503.0
+35,male,25.5,4,yes,Cantt,11158.0
+50,male,26.6,0,no,DHA,5654.0
+20,female,27.4,2,no,DHA,5545.0
+43,female,28.8,4,no,Wapda Town,5604.0
+63,male,23.8,5,no,Johar Town,4369.0
+41,male,24.7,0,yes,Cantt,12952.0
+33,female,28.4,1,no,Cantt,5465.0
+56,female,29.3,0,no,Cantt,4655.0
+43,male,20.4,1,no,Gulberg,3724.0
+50,female,23.5,2,no,Johar Town,5022.0
+43,male,32.7,2,no,Johar Town,4834.0
+61,male,29.8,3,no,Cantt,4136.0
+31,male,25.8,5,no,Gulberg,3769.0
+43,male,15.0,1,yes,DHA,12526.0
+40,male,27.7,4,no,DHA,4213.0
+65,female,19.3,2,no,Wapda Town,4320.0
+29,male,26.7,1,no,Iqbal Town,3100.0
+31,male,18.6,4,no,DHA,3072.0
+30,female,27.5,3,yes,Johar Town,12568.0
+29,female,25.4,4,no,DHA,2699.0
+24,female,28.3,2,no,Iqbal Town,5636.0
+44,male,31.5,2,yes,DHA,12007.0
+40,female,19.6,4,no,Gulberg,2157.0
+32,male,24.3,1,yes,Cantt,11611.0
+38,male,23.1,0,no,Iqbal Town,3801.0
+25,female,24.5,5,no,Iqbal Town,3202.0
+27,male,27.0,3,yes,Cantt,13254.0
+63,male,31.3,0,yes,Model Town,13476.0
+48,male,26.5,2,no,Wapda Town,3299.0
+56,male,21.4,1,no,DHA,5481.0
+21,female,25.4,1,no,Iqbal Town,5445.0
+19,female,25.5,5,yes,Model Town,11037.0
+68,female,21.5,2,no,Model Town,4147.0
+29,male,38.6,2,yes,Model Town,13747.0
+53,female,19.5,1,no,Wapda Town,3034.0
+65,male,33.7,5,no,Wapda Town,6818.0
+39,female,20.9,4,yes,Wapda Town,12306.0
+47,female,15.7,5,no,DHA,3668.0
+61,male,26.1,5,no,Model Town,3106.0
+23,female,30.6,2,yes,DHA,13753.0
+25,female,25.4,4,no,Cantt,3044.0
+38,female,22.6,0,no,Iqbal Town,5792.0
+45,female,16.9,0,no,Johar Town,2849.0
+29,male,23.1,5,no,Gulberg,3892.0
+59,female,21.6,1,no,Iqbal Town,4419.0
+28,male,24.2,5,no,Iqbal Town,2000.0
+48,female,29.3,0,no,DHA,5247.0
+35,female,23.1,3,no,Model Town,3705.0
+67,male,22.6,4,no,Wapda Town,5650.0
+63,male,30.8,5,no,DHA,6585.0
+27,male,19.8,3,no,Iqbal Town,3569.0
+19,female,30.4,3,no,Iqbal Town,4198.0
+35,female,27.2,4,no,Cantt,3176.0
+40,male,23.0,3,no,DHA,2649.0
+25,female,21.9,1,no,Johar Town,3194.0
+22,male,21.7,2,yes,Iqbal Town,11139.0
+29,male,23.2,1,yes,Johar Town,11905.0
+45,male,30.5,3,yes,Iqbal Town,12782.0
+54,female,24.4,1,no,Cantt,4737.0
+29,female,24.9,3,no,DHA,4603.0
+32,female,20.0,4,no,Model Town,2000.0
+28,female,25.0,4,no,Gulberg,4538.0
+32,male,29.2,1,no,Model Town,4236.0
+24,male,29.1,3,no,Cantt,5473.0
+18,female,28.5,3,no,Wapda Town,3637.0
+43,female,17.5,0,no,Gulberg,2882.0
+57,male,24.7,4,yes,Johar Town,12168.0
+33,female,25.6,1,yes,Wapda Town,12804.0
+29,male,27.7,1,no,DHA,6056.0
+65,male,26.0,4,no,Cantt,3531.0
+45,female,21.8,2,yes,DHA,13054.0
+63,male,25.1,4,no,DHA,5603.0
+31,male,20.7,2,no,Gulberg,3736.0
+21,female,19.0,0,no,Johar Town,2520.0
+68,male,28.3,1,yes,Model Town,12745.0
+32,male,25.5,2,no,Wapda Town,4411.0
+27,female,24.3,3,no,Model Town,3812.0
+48,female,29.4,0,no,Model Town,4219.0
+51,male,29.5,3,no,Wapda Town,4371.0
+26,female,23.2,2,no,Gulberg,3429.0
+51,male,26.9,0,no,Gulberg,6686.0
+46,male,21.7,3,no,Iqbal Town,3254.0
+29,male,34.5,3,no,Iqbal Town,5055.0
+59,female,29.8,0,no,Johar Town,5010.0
+44,female,19.3,2,no,Wapda Town,4476.0
+56,female,26.5,1,no,Johar Town,4022.0
+57,male,19.5,5,yes,DHA,10926.0
+48,female,20.7,2,no,Iqbal Town,4526.0
+41,female,28.4,0,no,Model Town,6653.0
+33,male,33.1,2,no,DHA,5812.0
+47,female,25.2,3,no,Cantt,3561.0
+20,male,23.9,0,no,Cantt,4187.0
+66,male,27.0,3,no,Johar Town,4548.0
+21,male,25.0,5,no,Johar Town,2000.0
+32,male,27.3,3,no,Gulberg,4156.0
+38,male,24.9,4,no,Model Town,4847.0
+62,female,16.7,1,yes,Cantt,12655.0
+53,male,29.9,4,no,Wapda Town,3621.0
+61,male,23.2,4,no,Iqbal Town,2740.0
+51,male,18.1,4,no,Iqbal Town,2069.0
+27,female,22.0,5,no,Model Town,2767.0
+68,male,21.7,0,no,Wapda Town,4680.0
+38,female,24.2,5,yes,Iqbal Town,10497.0
+26,male,24.6,5,no,Iqbal Town,4378.0
+36,male,20.9,3,no,DHA,3538.0
+30,male,27.6,4,no,Iqbal Town,4521.0
+53,female,25.1,1,no,Wapda Town,5935.0
+48,male,30.4,5,no,Model Town,3529.0
+37,male,19.7,5,no,DHA,2000.0
+45,male,25.2,5,no,Model Town,3043.0
+36,male,19.2,0,no,Cantt,3387.0
